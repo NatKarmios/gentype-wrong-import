@@ -1,0 +1,12 @@
+{
+  "name": "gentype-wrong-import",
+  "scripts": {
+    "build": "rescript",
+    "start": "rescript build -w"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gentype": "^4.5.0",
+    "rescript": "^9.1.4"
+  }
+}
